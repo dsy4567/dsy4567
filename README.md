@@ -5,3 +5,5 @@
 - 📫 我的邮箱是dsy4567@Outlook.com
 - 👀 我希望GitHub能每时每刻随时随地都能秒进
 - 😡 防沉迷这个傻必玩意快去💩
+
+![对联](https://fcmsb250.github.io/img1.jpeg)

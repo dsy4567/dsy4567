@@ -3,7 +3,6 @@
 - 🌐 GreasyFork 是 https://greasyfork.org/zh-CN/users/822325 ScriptCat 是 https://scriptcat.org/users/35034
 - 🌱 我正在学习Python/HTML/CSS/JS ...
 - 📫 我的邮箱是dsy4567@Outlook.com
-- 👀 我希望GitHub能每时每刻随时随地都能秒进
-- 😡 防沉迷这个傻必玩意快去💩
+- 😡 防沉迷你妈死了!!!
 
 ![对联](https://fcmsb250.github.io/img1.jpeg)

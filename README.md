@@ -44,8 +44,8 @@ console.log(new Date().getFullYear());
 // => 2008
 var me = new Person({
     name: "dsy",
-    gender: null,
-    hobbies: ["coding", "coding", "coding", "coding", "coding"],
+    gender: Math.random() >= 0.5 ? "male" : "female",
+    hobbies: ["coding", "eating", "playingGames"],
 });
 
 // ......
@@ -54,13 +54,14 @@ console.log(new Date());
 // => Wed May 12 2021 10:02:31 GMT+0800 (中国标准时间)
 me.accounts["GitHub"] = new GitHub.Account({
     name: "dsy4567",
-    bio: "防沉迷你妈死了",
+    bio: "敲代码使我快乐",
 });
 
 // ......
 
 console.log(new Date());
 // => Fri Oct 01 2021 20:31:39 GMT+0800 (中国标准时间)
+me.accounts["GitHub"].bio = "防沉迷你妈死了";
 me.accounts["GitHub"].repositories.push(
     new GitHub.Repository({
         name: "pj4399fcm",

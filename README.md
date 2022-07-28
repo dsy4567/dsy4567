@@ -1,4 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=dsy4567)
+[![](https://github-readme-stats.vercel.app/api?username=dsy4567)](https://github.com/dsy4567/dsy4567)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&theme=default&layout=compact)](https://github.com/dsy4567/dsy4567)
 
 - 👋 你好,我名的拼音首字母是dsy
 - 🌐 我丑陋的网站是 https://fcmsb250.github.io , 没用的网站是 https://dsy4567.github.io

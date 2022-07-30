@@ -73,7 +73,7 @@ while (!me.dead) {
     me.sayFuckTo("防沉迷");
     me.eat();
     me.code();
-    // me.sleep()
+    // me.sleep();
 }
 
 ```

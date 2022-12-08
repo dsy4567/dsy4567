@@ -12,7 +12,7 @@
   - 编辑器: [![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download) [![Vim](https://img.shields.io/badge/-vim-darkgreen?style=flat-square&logo=vim&logoColor=white)](https://github.com/vim/vim)
   - 其他工具:  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D6?style=flat-square&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/zh-cn/edge) [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-black?style=flat-square&logo=windowsterminal&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/terminal/install)
 - 📫 我的邮箱是 dsy4567@outlook.com (我™谢谢那些往这里发广告的)
-- # 😡 防沉迷你妈死了!!!
+- # 😡 \u9632\u6c89\u8ff7\u4f60\u5988\u6b7b\u4e86!!!
 
 ```javascript
 /*
@@ -88,7 +88,7 @@ console.log(new Date());
 console.log(new Date());
 // > Fri Oct 01 2021 20:31:39 GMT+0800 (中国标准时间)
 // 创建第一个存放破解防沉迷代码的仓库
-我.账号["GitHub"].个性签名 = "防沉迷你妈死了";
+我.账号["GitHub"].简介 = "\u9632\u6c89\u8ff7\u4f60\u5988\u6b7b\u4e86！";
 我.账号["GitHub"].存储库.push(
     new GitHub.存储库({
         名字: "pj4399fcm",

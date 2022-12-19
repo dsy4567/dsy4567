@@ -10,6 +10,7 @@ jobs:
       matrix:
         node-version: [16.x]
     steps:
+      - uses: actions/checkout@v3
       - name: install p7zip-full
         run: sudo apt install p7zip-full -y
       - name: init nodejs

@@ -133,7 +133,7 @@ console.log(new Date());
 <details>
       <summary>其他链接</summary>
       <ul>
-          <li><a href="https://dsy4567.cf/game">简陋小游戏</a></li>
+          <li><a href="https://home.mirrors.dsy4567.cf/game">简陋小游戏</a></li>
           <li><a href="https://fcmsb250.github.io/">防沉迷终结者</a></li>
           <li><a href="https://github.com/dsy4567/dsy4567/discussions">聊天区</a></li>
           <li><a href="https://www.luogu.com.cn/user/776713">洛谷</a></li>

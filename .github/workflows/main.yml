@@ -1,0 +1,13 @@
+name: build
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16.x]
+    steps:
+      - name: install p7zip-full
+        run: sudo apt install p7zip-full -y
+      - name: 

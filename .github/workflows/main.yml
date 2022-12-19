@@ -14,6 +14,8 @@ jobs:
         run: sudo apt install p7zip-full -y
       - name: init nodejs
         run: npm install node-7z
+      - name: ggg
+        run: ls -a
       - name: unzip
         run: node ./unzip.js
       - name: zip

@@ -3,7 +3,7 @@
 <a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://statcard.vercel.app/practice?id=776713" /></a>
 <a href="https://fcmsb250.github.io/"><img alt="防沉迷终结者" width=49% src="https://dsy4567.github.io/logo.svg" /></a>
 - 👋 你好,我名的拼音首字母是dsy
-- ⏩ 任何关注我的人都会被回关, 如果 TA 每天刷动态的数量不超过 50
+- ⏩ 任何关注我的人都会被回关, **_如果 TA 每天刷动态的数量不超过 50_**
 - 🌐 我丑陋的网站是 https://fcmsb250.github.io , 没用的网站是 https://dsy4567.github.io
 - 🌐 GreasyFork 是 https://greasyfork.org/zh-CN/users/822325 ScriptCat 是 https://scriptcat.org/users/35034
 - 🌱 我正在学习 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white) ![c⺿](https://img.shields.io/badge/-c%E8%89%B9-purple?style=flat-square&logo=cplusplus&logoColor=white)

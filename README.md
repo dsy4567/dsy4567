@@ -128,8 +128,6 @@ console.log(new Date());
 
 ```
 
-<video src="dsy4567's GitHubUnwrapped.mp4"></video>
-
 <details>
       <summary>其他链接</summary>
       <ul>

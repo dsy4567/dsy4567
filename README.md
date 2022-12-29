@@ -51,7 +51,7 @@
               |    |       MINOR LOGIN RESTRICTION REMINDER       |    |  |
               |    |  You are using a minor's account...          |    |  |
               |    |                                              |    |  |
-              |    |          OK           SWITCH ACCOUNT          |    |  |
+              |    |          OK           SWITCH ACCOUNT         |    |  |
         +-----|    |                                              |    |  |------------+
        /      |    +----------------------------------------------+    |  |           /|
       /       |                                                        | /           / |

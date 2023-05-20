@@ -24,15 +24,15 @@
 
 ## ✨ GitHub Stats
 
-<center><a href="https://github.com/dsy4567"><img alt="" width=49% src="https://github-readme-stats.vercel.app/api?username=dsy4567" /></a></center>
+<div align="center"><a href="https://github.com/dsy4567"><img alt="" width=49% src="https://github-readme-stats.vercel.app/api?username=dsy4567" /></a></div>
 
 ## 🕒 最常用的语言
 
-<center><a href="https://github.com/dsy4567"><img alt="Most Used Languages" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&theme=default&layout=compact" /></a></center>
+<div align="center"><a href="https://github.com/dsy4567"><img alt="Most Used Languages" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&theme=default&layout=compact" /></a></div>
 
 ## 💪 洛谷贺题情况
 
-<center><a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://statcard.vercel.app/practice?id=776713" /></a></center>
+<div align="center"><a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://statcard.vercel.app/practice?id=776713&r=114514" /></a></div>
 
 ## 🌱 正在学习
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)

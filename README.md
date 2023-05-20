@@ -1,18 +1,53 @@
-<a href="https://github.com/dsy4567"><img alt="GitHub Stats" width=49% src="https://github-readme-stats.vercel.app/api?username=dsy4567" /></a>
-<a href="https://github.com/dsy4567"><img alt="Most Used Languages" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&theme=default&layout=compact" /></a>
-<a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://statcard.vercel.app/practice?id=776713" /></a>
-<a href="https://fcmsb250.github.io/"><img alt="防沉迷终结者" width=49% src="https://dsy4567.github.io/logo.svg" /></a>
-- 👋 你好,我名的拼音首字母是dsy
-- 🌐 我做的狗都不看的网站是 https://fcmsb250.github.io 和 https://dsy4567.github.io
-- 🌐 GreasyFork 是 https://greasyfork.org/zh-CN/users/822325 ScriptCat 是 https://scriptcat.org/users/35034
-- 🌱 我正在学习 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white) ![c⺿](https://img.shields.io/badge/-c%E8%89%B9-purple?style=flat-square&logo=cplusplus&logoColor=white)
-- 🔧 我的开发环境是:
-  - 老爷机: 2011 年购买, CPU: [![Intel® Pentium® Processor E5400](https://img.shields.io/badge/-E5400-blue?style=flat-square&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/40478/intel-pentium-processor-e5400-2m-cache-2-70-ghz-800-mhz-fsb.html), 显卡: ![Intel(R) G41 Express Chipset](https://img.shields.io/badge/-G41%20Express%20Chipset-blue?style=flat-square&logo=intel&logoColor=white), 硬盘: 固态 ![ShineDisk M667 120G](https://img.shields.io/badge/-ShineDisk%20M667%20120G-blue?style=flat-square&logo=shinedisk&logoColor=white), 机械 ![WD5000AAKS 08WWPA0 500GB](https://img.shields.io/badge/-WD5000AAKS%2008WWPA0%20500GB-blue?style=flat-square&logo=westerndigital&logoColor=white), 内存: ![2\*2GB](https://img.shields.io/badge/-2*2GB-green?style=flat-square&logoColor=white)
+## 👋 个人简介
+
+- 🕺 真实姓名：（不想说）
+- 🍼 出生年份：2008 年（15岁）
+- 🚻 性别：`0.1 + 0.2 == 0.3 ? "女" : "男"`
+- 🏠 居住地：西安市附近 300 km 内
+- 🍴 饮食习惯：素菜全吃，荤菜几乎不碰
+- ❤️ 喜欢的：造轮子、信息学竞赛、使用 `.` 作为提交信息
+- 💔 不喜欢的：看不见摸不着的墙、防沉迷
+
+## 🌐 我的网站
+
+- [dsy4567的小站](https://dsy4567.cf/)
+- [防沉迷终结者](https://fcmsb250.github.io/)
+ 
+## ☎ 联系方式/社交账号
+
+- 邮箱: ds删y4567艾特ou删tlook点c删om
+- Telegram：[@dsy4567qwq](https://t.me/dsy4567qwq)
+- Twitter：[@dsy4567](https://twitter.com/dsy4567)
+- Facebook：[dsy4567](https://www.facebook.com/dsy4567)
+- 洛谷：[dsy4567](https://www.luogu.com.cn/user/776713)
+- [Session](https://github.com/oxen-io/session-desktop) ID: 05eb82ca542a9a65c519338b2bd814903bc3d58f3e3ce41d3c31eac4744a56bc56
+
+## ✨ GitHub Stats
+
+<center><a href="https://github.com/dsy4567"><img alt="" width=49% src="https://github-readme-stats.vercel.app/api?username=dsy4567" /></a></center>
+
+## 🕒 最常用的语言
+
+<center><a href="https://github.com/dsy4567"><img alt="Most Used Languages" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&theme=default&layout=compact" /></a></center>
+
+## 💪 洛谷贺题情况
+
+<center><a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://statcard.vercel.app/practice?id=776713" /></a></center>
+
+## 🌱 正在学习
+- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white)
+- ![c⺿](https://img.shields.io/badge/-c%E8%89%B9-purple?style=flat-square&logo=cplusplus&logoColor=white)
+
+## 🔧 开发环境
+  - 2011 年买的老爷机
+    - CPU: [![Intel® Pentium® Processor E5400](https://img.shields.io/badge/-E5400-blue?style=flat-square&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/40478/intel-pentium-processor-e5400-2m-cache-2-70-ghz-800-mhz-fsb.html)-
+    - 显卡: ![Intel(R) G41 Express Chipset](https://img.shields.io/badge/-G41%20Express%20Chipset-blue?style=flat-square&logo=intel&logoColor=white)
+    - 硬盘: 固态 ![ShineDisk M667 120G](https://img.shields.io/badge/-ShineDisk%20M667%20120G-blue?style=flat-square&logo=shinedisk&logoColor=white), 机械 ![WD5000AAKS 08WWPA0 500GB](https://img.shields.io/badge/-WD5000AAKS%2008WWPA0%20500GB-blue?style=flat-square&logo=westerndigital&logoColor=white)
+    - 内存: ![2\*2GB](https://img.shields.io/badge/-2*2GB-green?style=flat-square&logoColor=white)
   - 操作系统: [![Windows 10](https://img.shields.io/badge/-Windows_10-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows10) [![Windows 11](https://img.shields.io/badge/-Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11) [![deepin](https://img.shields.io/badge/-deepin-0050ff?style=flat-square&logo=deepin&logoColor=white)](https://deepin.org/)
   - 编辑器: [![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download) [![Vim](https://img.shields.io/badge/-vim-darkgreen?style=flat-square&logo=vim&logoColor=white)](https://github.com/vim/vim)
   - 其他工具:  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D6?style=flat-square&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/zh-cn/edge) [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-black?style=flat-square&logo=windowsterminal&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/terminal/install) [![Windows Terminal](https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=tampermonkey&logoColor=white)](https://www.tampermonkey.net/)
-- 📫 我的邮箱是 dsy4567 \[at\] outlook \[dot\] com (我™谢谢那些往这里发广告的)
-- # 😡 \u9632\u6c89\u8ff7\u4f60\u5988\u6b7b\u4e86!!!
 
 ```javascript
 /*
@@ -64,37 +99,6 @@
 
 */
 
-console.log(new Date().getFullYear());
-// > 2008
-// 我出生了
-let 我 = new 人({
-    名字: "dsy",
-    性别: Math.random() >= 0.5 ? "男" : "女",
-    爱好: ["敲代码", "吃饭", "玩游戏", "使用 . 作为提交信息"],
-});
-
-// ......
-
-console.log(new Date());
-// > Wed May 12 2021 10:02:31 GMT+0800 (中国标准时间)
-// 加入 GitHub
-我.账号["GitHub"] = new GitHub.账号({
-    名字: "dsy4567",
-    个性签名: "敲代码使我快乐",
-});
-
-// ......
-
-console.log(new Date());
-// > Fri Oct 01 2021 20:31:39 GMT+0800 (中国标准时间)
-// 创建第一个存放破解防沉迷代码的仓库
-我.账号["GitHub"].简介 = "\u9632\u6c89\u8ff7\u4f60\u5988\u6b7b\u4e86！";
-我.账号["GitHub"].存储库.push(
-    new GitHub.存储库({
-        名字: "pj4399fcm",
-    })
-);
-
 太阳.on("升起", () => {
     if (!我.死了) {
         我.爆粗口给("防沉迷");
@@ -135,8 +139,6 @@ https://user-images.githubusercontent.com/84607814/214757415-c0770e13-6a6b-4819-
       <ul>
           <li><a href="https://fucksc.cf/">xxx.fucksc.cf 子域注册</a></li>
           <li><a href="https://dsy4567.cf/game">简陋小游戏</a></li>
-          <li><a href="https://fcmsb250.github.io/">防沉迷终结者</a></li>
-          <li><a href="https://github.com/dsy4567/dsy4567/discussions">聊天区</a></li>
           <li><a href="https://www.luogu.com.cn/user/776713">洛谷</a></li>
           <li><a href="csp-j-2022.jpg">€€£ €$₱ J组 初赛证书</a> <a href="certify_2022-10-30.7z">加密原件</a></li>
       </ul>

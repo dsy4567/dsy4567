@@ -32,7 +32,7 @@
 
 ## 💪 洛谷贺题情况
 
-<div align="center"><a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://statcard.vercel.app/practice?id=776713&r=114514" /></a></div>
+<div align="center"><a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://luogu-stats-card-swart.vercel.app/practice?id=776713&r=114514" /></a></div>
 
 ## 🌱 正在学习
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)

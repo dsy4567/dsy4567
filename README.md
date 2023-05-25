@@ -5,7 +5,7 @@
 - 🚻 性别：`0.1 + 0.2 == 0.3 ? "女" : "男"`
 - 🏠 居住地：西安市附近 300 km 内
 - 🍴 饮食习惯：素菜全吃，荤菜几乎不碰
-- ❤️ 喜欢的：造轮子、信息学竞赛、使用 `.` 作为提交信息
+- ❤️ 喜欢的：深色主题、造轮子、信息学竞赛、使用 `.` 作为提交信息
 - 💔 不喜欢的：看不见摸不着的墙、防沉迷
 
 ## 🌐 我的网站
@@ -16,7 +16,7 @@
 ## ☎ 联系方式/社交账号
 
 - 邮箱: ds删y4567艾特ou删tlook点c删om
-- Telegram：[@dsy4567qwq](https://t.me/dsy4567qwq)
+- Telegram：@dsy4567删qwq
 - Twitter：[@dsy4567](https://twitter.com/dsy4567)
 - Facebook：[dsy4567](https://www.facebook.com/dsy4567)
 - 洛谷：[dsy4567](https://www.luogu.com.cn/user/776713)

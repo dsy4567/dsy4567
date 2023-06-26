@@ -19,7 +19,6 @@
 - 邮箱: ds删y4567艾特ou删tlook点c删om
 - Telegram：@dsy4567删qwq
 - Twitter：[@dsy4567](https://twitter.com/dsy4567)
-- Facebook：[dsy4567](https://www.facebook.com/dsy4567)
 - 洛谷：[dsy4567](https://www.luogu.com.cn/user/776713)
 - [Session](https://github.com/oxen-io/session-desktop) ID: 05eb82ca542a9a65c519338b2bd814903bc3d58f3e3ce41d3c31eac4744a56bc56
 

@@ -4,7 +4,16 @@
 - 🍼 出生年份：2008 年（15岁）
 - 🚻 性别：`0.1 + 0.2 == 0.3 ? "女" : "男"`
 - 🏠 居住地：西安市附近 300 km 内
-- 🍴 饮食习惯：素菜全吃，荤菜几乎不碰
+- 🍴 饮食习惯：
+  <details>
+      <summary>点击展开</summary>
+      <ul>
+          <li>偏重口味</li>
+          <li>蛋奶素主义 + 锅边素食主义</li>
+          <li>不喜欢葱姜蒜和韭菜，洋葱不能太多</li>
+          <li>喜欢菌类食物</li>
+      </ul>
+  </details>
 - 🕺 人格类型：[Turbulent Logician (INTP-T)](https://www.16personalities.com/profiles/c55ee084cac53)
 - ❤️ 喜欢的：7\*24 小时开着深色主题、造轮子、信息学竞赛、使用 `.` 作为提交信息
 - 💔 不喜欢的：没有深色主题的网站/软件、看不见摸不着的墙、防沉迷
@@ -49,88 +58,6 @@
   - 编辑器: [![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download) [![Vim](https://img.shields.io/badge/-vim-darkgreen?style=flat-square&logo=vim&logoColor=white)](https://github.com/vim/vim)
   - 其他工具:  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D6?style=flat-square&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/zh-cn/edge) [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-black?style=flat-square&logo=windowsterminal&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/terminal/install) [![Windows Terminal](https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=tampermonkey&logoColor=white)](https://www.tampermonkey.net/)
 
-```javascript
-/*
-
-               +----------------------------------------------------------+              —————————————————————————————————
-              /                                                         / |             ｜ | ｜ 永 ｜ 限 ｜ 由 ｜ 三 ｜ 一 ｜
-              +--------------------------------------------------------+  |             ｜ | ｜ 垂 ｜ 制 ｜ 此 ｜ 年 ｜ 年 ｜
-              |                                                        |  |             ｜ d ｜ 不 ｜ ， ｜ 上 ｜ 以 ｜ 以 ｜
-              |                                                        |  |             ｜ s ｜ 朽 ｜ 争 ｜ 溯 ｜ 来 ｜ 来 ｜
-              |    +---------         ---+---          +---------      |  |             ｜ y ｜ 　 ｜ 取 ｜ 到 ｜ ， ｜ ， ｜
-              |    |         )           |             |         )     |  |             ｜ 4 ｜ 　 ｜ 游 ｜ 二 ｜ 为 ｜ 为 ｜
-              |    +---------            |             +---------      |  |             ｜ 5 ｜ 　 ｜ 戏 ｜ 千 ｜ 保 ｜ 人 ｜
-              |    | \                   |             |               |  |             ｜ 6 ｜ 　 ｜ 自 ｜ 零 ｜ 护 ｜ 们 ｜
-              |    |   \                 |             |               |  |             ｜ 7 ｜ 　 ｜ 由 ｜ 七 ｜ 孩 ｜ 争 ｜
-              |    |     \               |             |               |  |             ｜   ｜ 　 ｜ ， ｜ 年 ｜ 子 ｜ 取 ｜
-              |    |       \       o  ---+---       o  |            o  |  |             ｜   ｜ 　 ｜ 在 ｜ ， ｜ 们 ｜ 游 ｜
-              |                                                        |  |             ｜   ｜ 　 ｜ 历 ｜ 从 ｜ 游 ｜ 戏 ｜
-              |                                                        |  |             ｜   ｜ 　 ｜ 次 ｜ 那 ｜ 自 ｜ 自 ｜
-              |                                                        |  |             ｜   ｜ 　 ｜ 斗 ｜ 时 ｜ 自 ｜ 由 ｜
-              |                                                        |  |             ｜   ｜ 　 ｜ 争 ｜ 起 ｜ 由 ｜ 的 ｜
-              |    A tombstone of the MOTHERFUCKING anti indulgence.   |  |             ｜   ｜ 　 ｜ 后 ｜ ， ｜ 的 ｜ 程 ｜
-              |                                                        |  |             ｜ 2 ｜ 　 ｜ 不 ｜ 为 ｜ 家 ｜ 序 ｜
-              |                                                        |  |             ｜ 0 ｜ 　 ｜ 见 ｜ 了 ｜ 长 ｜ 员 ｜
-              |                                                        |  |             ｜ 2 ｜ 　 ｜ 天 ｜ 反 ｜ 们 ｜ 们 ｜
-              |                                                        |  |             ｜ 2 ｜ 　 ｜ 日 ｜ 对 ｜ 永 ｜ 永 ｜
-              |                Established by dsy4567.                 |  |             ｜ . ｜ 　 ｜ 的 ｜ 防 ｜ 垂 ｜ 垂 ｜
-              |                                                        |  |             ｜ 1 ｜ 　 ｜ 人 ｜ 沉 ｜ 不 ｜ 不 ｜
-              |                                                        |  |             ｜ 1 ｜ 　 ｜ 们 ｜ 迷 ｜ 朽 ｜ 朽 ｜
-              |                                                        |  |              —————————————————————————————————
-              |           No anti indulgence, no unhappiness.          |  |
-              |               May it NEVER rest in peace.              |  |
-              |                                                        |  |
-              |                                                        |  |
-              |                        FUCK IT↓                        |  |
-              |    +----------------------------------------------+    |  |
-              |    |       MINOR LOGIN RESTRICTION REMINDER       |    |  |
-              |    |  You are using a minor's account...          |    |  |
-              |    |                                              |    |  |
-              |    |          OK           SWITCH ACCOUNT         |    |  |
-        +-----|    |                                              |    |  |------------+
-       /      |    +----------------------------------------------+    |  |           /|
-      /       |                                                        | /           / |
-     /        |                                                        |/           /  |
-    /         +--------------------------------------------------------+           /  /
-   /                                                                              /  /
-  +------------------------------------------------------------------------------+  /
-  |                                                                              | /
-  +------------------------------------------------------------------------------+
-
-*/
-
-太阳.on("升起", () => {
-    if (!我.死了) {
-        我.爆粗口给("防沉迷");
-        我.吃饭();
-        我.敲代码();
-        // 我.睡觉();
-    }
-});
-
-我.on("准备去死", () => {
-    let D = new Date();
-    我.立遗嘱(`
-                遗嘱
-
-    一定要帮我干掉防沉迷这个没妈的玩意
-
-                        讨厌防沉迷的 dsy
-                        ${D.getFullYear()}年${D.getMonth() + 1}月${D.getDate()}日
-    `);
-});
-
-我.on("去死", () => {
-    if (世间万物.有("防沉迷")) {
-        我.睁眼(); // 死不瞑目
-
-        我.遗嘱.on("实现", () => {
-            我.闭眼();
-        });
-    }
-});
-
-```
 
 <details>
       <summary>其他链接</summary>

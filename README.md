@@ -9,7 +9,7 @@
       <summary>点击展开</summary>
       <ul>
           <li>偏重口味</li>
-          <li>蛋奶素主义 + 锅边素食主义</li>
+          <li><a href="https://zh.wikipedia.org/zh-cn/%E7%B4%A0%E9%A3%9F%E4%B8%BB%E7%BE%A9#%E7%A8%AE%E9%A1%9E%E3%83%BB%E5%9E%8B%E6%85%8B">蛋奶素主义 + 锅边素食主义</a></li>
           <li>不喜欢葱姜蒜和韭菜，洋葱不能太多</li>
           <li>喜欢菌类食物</li>
       </ul>

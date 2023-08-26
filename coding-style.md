@@ -1,4 +1,4 @@
-# 编码风格
+# 编码风格（JS/TS）
 
 ## 基本格式
 
@@ -82,4 +82,4 @@ export { A1, B1, a1, b1, A2, B2, a2, b2, oa, ob, fa, fb, o1, o2, f1, f2 };
 
 ## 类型声明
 
--   所有自定义类型应在 [src/index.d.ts](./src/index.d.ts) 中声明
+-   所有自定义类型应在 index.d.ts 中声明

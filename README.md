@@ -17,11 +17,6 @@
 - 🕺 人格类型：[Turbulent Logician (INTP-T)](https://www.16personalities.com/profiles/c55ee084cac53)
 - ❤️ 喜欢的：7\*24 小时开着深色主题、造轮子、信息学竞赛、使用 `.` 作为提交信息
 - 💔 不喜欢的：没有深色主题的网站/软件、看不见摸不着的墙、防沉迷
-
-## 🌐 我的网站
-
-- [dsy4567的小站](https://dsy4567.cf/)
-- [防沉迷终结者](https://fcmsb250.github.io/)
  
 ## ☎ 联系方式/社交账号
 
@@ -58,15 +53,5 @@
   - 编辑器: [![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download) [![Vim](https://img.shields.io/badge/-vim-darkgreen?style=flat-square&logo=vim&logoColor=white)](https://github.com/vim/vim)
   - 其他工具:  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D6?style=flat-square&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/zh-cn/edge) [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-black?style=flat-square&logo=windowsterminal&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/terminal/install) [![Windows Terminal](https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=tampermonkey&logoColor=white)](https://www.tampermonkey.net/)
 
-
-<details>
-      <summary>其他链接</summary>
-      <ul>
-          <li><a href="https://fucksc.cf/">xxx.fucksc.cf 子域注册</a></li>
-          <li><a href="https://dsy4567.cf/game">简陋小游戏</a></li>
-          <li><a href="https://www.luogu.com.cn/user/776713">洛谷</a></li>
-          <li><a href="csp-j-2022.jpg">€€£ €$₱ J组 初赛证书</a> <a href="certify_2022-10-30.7z">加密原件</a></li>
-      </ul>
-</details>
 
 [![Hits](https://hits.sh/github.com/dsy4567.svg)](https://github.com/dsy4567) [![GitHub User's stars](https://img.shields.io/github/stars/dsy4567?affiliations=OWNER&label=Github%20stars)](https://github.com/dsy4567?tab=repositories&q=&type=source&language=&sort=stargazers)

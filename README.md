@@ -33,10 +33,6 @@
 
 <div align="center"><a href="https://github.com/dsy4567"><img alt="Most Used Languages" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&theme=default&layout=compact" /></a></div>
 
-## 💪 洛谷贺题情况
-
-<div align="center"><a href="https://www.luogu.com.cn/user/776713"><img alt="洛谷贺题情况" width=49% src="https://luogu-stats-card-swart.vercel.app/practice?id=776713&r=114514" /></a></div>
-
 ## 🌱 正在学习
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white)

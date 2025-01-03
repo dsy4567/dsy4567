@@ -27,11 +27,25 @@
 
 ## ✨ GitHub Stats
 
-<div align="center"><a href="https://github.com/dsy4567"><img alt="" width=49% src="https://github-readme-stats.vercel.app/api?username=dsy4567" /></a></div>
+<div align="center"><a href="https://github.com/dsy4567"><picture><source
+    srcset="https://github-readme-stats.vercel.app/api?username=dsy4567&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  /><source
+    srcset="https://github-readme-stats.vercel.app/api?username=dsy4567&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  /><img alt="GitHub Stats" width=49% src="https://github-readme-stats.vercel.app/api?username=dsy4567&show_icons=true" />
+</picture></a></div>
 
 ## 🕒 最常用的语言
 
-<div align="center"><a href="https://github.com/dsy4567"><img alt="Most Used Languages" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&theme=default&layout=compact" /></a></div>
+<div align="center"><a href="https://github.com/dsy4567"><picture><source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  /><source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  /><img alt="Most Used Languages" width=49% alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsy4567&show_icons=true" />
+</picture></a></div>
 
 ## 🌱 正在学习
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)

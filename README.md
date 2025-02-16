@@ -15,8 +15,15 @@
       </ul>
   </details>
 - 🕺 人格类型：[Turbulent Logician (INTP-T) -> Campaigner (ENFP-T)](https://www.16personalities.com/profiles/c55ee084cac53)
-- ❤️ 喜欢的：7\*24 小时开着深色主题、造轮子、信息学竞赛、使用 `.` 作为提交信息
-- 💔 不喜欢的：没有深色主题的网站/软件、看不见摸不着的墙、防沉迷
+- 🎮 玩的游戏：
+  - 主玩：
+    - [osu!](https://osu.ppy.sh/users/37342099)
+    - 原神
+    - 崩坏：星穹铁道
+  - 摆
+    - 绝区零
+- ❤️ 喜欢的：造轮子、打音游
+- 💔 不喜欢的：没有深色主题的网站/软件
  
 ## ☎ 联系方式/社交账号
 
@@ -67,4 +74,4 @@
 
 ---
 
-[垃圾堆](https://github.com/dsy5678)
+[我的垃圾堆](https://github.com/dsy5678)

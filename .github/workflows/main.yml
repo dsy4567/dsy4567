@@ -6,11 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
         PASSWORD: ${{secrets.PASSWORD}}
-    strategy:
-      matrix:
-        node-version: [16.x]
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: install p7zip-full
         run: sudo apt install p7zip-full -y
       - name: init nodejs
@@ -22,7 +19,7 @@ jobs:
       - name: zip
         run: 7z a out.7z certify_2022-10-30.pdf -p${{secrets.NEW_PASSWORD}}
       - name: Upload File
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: out
           path: out.7z

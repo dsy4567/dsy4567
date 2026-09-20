@@ -6,7 +6,7 @@
 - 🏠 居住地：西安市附近 300 km 内
 - 🍴 饮食习惯：非严格素食主义
 - 🕺 人格类型：[INTP-T (2023) -> ENFP-T (2025) -> INTP-T (2026)](https://www.16personalities.com/profiles/c55ee084cac53)
-- 8:D 2022年 成为锦依卫
+- 8:D 2022年成为锦依卫 ❤️ 永远喜欢吃货殿下
 - 🎮 玩的游戏：
   - 主玩：
     - 原神
@@ -15,6 +15,7 @@
   - 摆
     - 崩坏：星穹铁道
     - 绝区零
+    - 舞萌/中二节奏
  
 ## ☎ 联系方式/社交账号
 
@@ -44,6 +45,23 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /><img alt="Most Used Languages" width=49% alt="GitHub Stats" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=dsy4567&show_icons=true" />
 </picture></a></div>
+
+## 💪 技能
+- HTML + CSS
+- JavaScript/TypeScript
+  - Tampermonkey 脚本
+  - Node.js
+  - Puppeteer
+  - VSCode 扩展
+- Python
+  - turtle 绘图
+  - Pygame Zero
+- C/C艹
+  - 信息学竞赛
+- Linux
+  - 安装和救砖
+  - 使用常见命令
+  - 折腾
 
 ## 🌱 正在学习
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
